@@ -1,0 +1,36 @@
+.main-page {
+  color: white;
+}
+
+.col-left {
+  width: 20%;
+  display: inline-block;
+  color: white;
+  vertical-align: top;
+}
+.col-right {
+  width: 80%;
+  display: inline-block;
+}
+
+.header {
+  font-size: 25px;
+  font-weight: bold;
+  padding-left: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: left;
+}
+
+.subcategorie {
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  line-height: 42px;
+  font-weight: lighter;
+  text-decoration: none;
+}
+
+.list {
+  padding-left: 80px;
+}

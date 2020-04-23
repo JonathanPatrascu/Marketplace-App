@@ -1,0 +1,65 @@
+.contact {
+  padding-top: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: white;
+}
+
+.titlu {
+  text-align: center;
+}
+
+.textIntroducere {
+  padding-top: 20px;
+  padding-left: 150px;
+  padding-right: 150px;
+  background-color: white;
+  font-size: 17px;
+  text-align: left;
+  color: black;
+  line-height: 2.5;
+}
+
+.column-left {
+  float: left;
+  width: 30%;
+}
+.column-right {
+  float: left;
+  width: 70%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.row {
+  color: black;
+  background-color: white;
+}
+
+.adresaTitlu {
+  text-align: center;
+  color: black;
+}
+
+.adresaText {
+  text-align: center;
+}
+.titluContact {
+  text-align: center;
+  color: black;
+  padding-top: 0px;
+}
+
+.text-adresa {
+  text-align: left;
+  padding-left: 30%;
+}
+
+.facebook-referinta {
+  text-decoration: none;
+  color: black;
+}

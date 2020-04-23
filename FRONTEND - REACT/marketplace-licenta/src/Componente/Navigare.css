@@ -1,0 +1,214 @@
+.navigation-bar {
+  background: #111;
+}
+
+.navigare-container-mare {
+  height: 250px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: #fbfbfb;
+  border-radius: 0 0 4px 4px;
+}
+
+.navigation-logo {
+  width: 63%;
+  margin-left: 29px;
+}
+
+.col1 {
+  width: 420px;
+}
+.col2 {
+  width: 720px;
+}
+.col3 {
+  width: 270px;
+  vertical-align: top;
+}
+form.search input[type="text"] {
+  padding: 10px;
+  font-size: 15px;
+  outline: none;
+  float: left;
+  width: 65%;
+  background: #cdcdcd;
+  margin-top: 23px;
+}
+
+form.search button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: black;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+  outline: none;
+  border-radius: 8px;
+  margin-top: 23px;
+}
+
+.button1 {
+  margin-top: 0px;
+  width: 60%;
+  padding: 7px;
+  margin-right: 0px;
+  color: black;
+  font-size: 14px;
+  cursor: pointer;
+  border: none;
+  background: none;
+  outline: none;
+}
+
+.button3 {
+  margin-top: 25px;
+  margin-left: 70px;
+  width: 120px;
+  padding: 7px;
+  background: black;
+  color: white;
+  font-size: 17px;
+  cursor: pointer;
+  border-radius: 7px;
+  align-content: center;
+  outline: none;
+}
+.dropdown-select-category {
+  margin-left: 0px;
+  outline: none;
+  margin-left: 0px;
+  margin-right: 50px;
+}
+.dropbutton {
+  font-weight: bold;
+  background-color: white;
+  color: black;
+  padding: 10px 20px;
+  font-size: 17px;
+  border: none;
+  width: 320px;
+  outline: none;
+  margin-top: -1px;
+}
+.lista-categorii {
+  display: none;
+  position: absolute;
+  background: white;
+  width: 320px;
+  box-shadow: 0px 2px 3px 0px rgba(255, 255, 255, 0.1);
+  border: 1px solid #eaeaea;
+  margin-top: -2px;
+  z-index: 1;
+  padding: 5px 0;
+}
+
+.lista-categorii a {
+  color: #333;
+  padding: 8px 50px;
+  display: block;
+  text-decoration: none;
+  transition: 225ms;
+}
+
+.lista-categorii a:hover {
+  background-color: #eaeaea;
+}
+
+.dropdown-select-category:hover .lista-categorii {
+  display: block;
+}
+
+.dropdown-select-category:hover .dropbutton {
+  background-color: #cdcdcd;
+}
+.linie-orizontala {
+  border: none;
+}
+
+.imagineLogOut {
+  height: 24px;
+}
+
+.buton-logout {
+  cursor: pointer;
+  margin-left: 5px;
+  color: #333;
+  border: none;
+  text-decoration: none;
+  outline: none;
+}
+
+.divstangacont {
+  display: inline-block;
+  vertical-align: top;
+  text-align: right;
+}
+
+.divsstangacont {
+  display: inline-block;
+  text-align: right;
+}
+
+.divdreaptacont {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.linkCont {
+  text-decoration: none;
+  color: black;
+}
+
+.div-contul-meu {
+  display: inline-block;
+  height: 60px;
+  width: 120px;
+  margin-right: 20px;
+  margin-top: 5px;
+  text-align: right;
+}
+
+.div-lista-dorinte {
+  display: inline-block;
+  height: 60px;
+  width: 120px;
+}
+input[type="text"],
+input[type="password"],
+input[type="number"],
+select {
+  border-radius: 3px !important;
+  border: 1px solid #ddd !important;
+  box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.1);
+  background: #fff !important;
+  outline: 0;
+}
+.search-input {
+  border-radius: 3px 0 0 3px;
+}
+button,
+input[type="submit"] {
+  border-radius: 3px !important;
+  box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ddd !important;
+  outline: 0;
+  background: #efefef !important;
+  cursor: pointer;
+  transition: 225ms;
+  color: #444 !important;
+}
+button:hover,
+input[type="submit"] {
+  background: #eaeaea !important;
+}
+.submit {
+  background: #efefef !important;
+  margin-left: -7px;
+  border-radius: 0 3px 3px 0 !important;
+  border: 1px solid #ddd !important;
+  box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.1) !important;
+  color: #666 !important;
+}

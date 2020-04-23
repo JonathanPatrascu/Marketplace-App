@@ -1,0 +1,39 @@
+.pagina-start {
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: white;
+}
+
+.tabel {
+  border: 0px solid black;
+  padding: 0px;
+}
+.startpage-image {
+  margin-top: 0px;
+  margin-left: 0px;
+  height: 450px;
+  width: 900px;
+}
+
+.sectiune-text {
+  background-color: #111;
+  width: 100%;
+  vertical-align: top;
+  border-bottom: 20px;
+}
+.spatiu-tabel {
+  background-color: #111;
+}
+
+.header-text {
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+.text-paragraf {
+  color: white;
+  padding: 30px;
+  font-size: 18px;
+  text-align: center;
+}

@@ -1,0 +1,73 @@
+.register {
+  margin-left: 400px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 400px;
+  background-color: white;
+  border-radius: 4px;
+  clear: both;
+  text-align: center;
+}
+
+.heading-inregistrare {
+  text-align: center;
+  padding-top: 40px;
+  margin-bottom: 50px;
+}
+
+.register input {
+  width: 50%;
+  clear: both;
+  box-align: right;
+}
+
+.imagine-text {
+  font-size: 18px;
+  margin-top: 20px;
+  color: #595e71;
+}
+
+.div-creare-cont {
+  text-align: center;
+}
+
+.buton-creeaza-cont {
+  width: 18%;
+  padding: 10px;
+  background: black;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+  outline: none;
+  border-radius: 8px;
+  margin-bottom: 40px;
+  margin-top: 20px;
+}
+
+.judexBox {
+  cursor: pointer;
+  width: 380px;
+  height: 42px;
+  font-size: 17px;
+  margin-top: 7px;
+  border: 1px solid;
+  border-color: #686767;
+  border-radius: 4px;
+  outline: none;
+  margin-bottom: 5px;
+}
+.judexBox option {
+  color: #686767;
+}
+.imagine-utilizator {
+  position: relative;
+  margin: auto;
+  border: 2px solid #bbb;
+  width: 150px;
+  height: 150px;
+  border-radius: 150%;
+  background-size: cover;
+  background-position: center center;
+}

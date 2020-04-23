@@ -1,0 +1,87 @@
+.produs-utilizator-mic {
+  background-color: white;
+}
+
+.imagine-produs-utilizator {
+  width: 125px;
+  height: 95px;
+  display: inline-block;
+  margin-left: 10px;
+  margin-top: 10px;
+  border: 1px solid;
+  border-color: rgb(146, 146, 146);
+  border-radius: 3px;
+  background-size: cover;
+  background-position: center center;
+}
+
+.div-nume-produs-utilizator {
+  font-size: 12px;
+  display: inline-block;
+  width: 353px;
+  vertical-align: top;
+  padding-top: 51px;
+  margin-left: 10px;
+  text-align: center;
+}
+
+.div-sterge-produs-utilizator {
+  display: inline-block;
+  vertical-align: top;
+  padding-top: 43px;
+  margin-left: 10px;
+  text-align: center;
+}
+
+.buton-sterge-produs-utilizator {
+  margin-top: 0px;
+  margin-left: 0px;
+  width: 100%;
+  padding: 8px;
+  background: black;
+  color: white;
+  font-size: 13px;
+  cursor: pointer;
+  border-radius: 7px;
+  border-color: rgb(146, 146, 146);
+
+  align-content: center;
+  outline: none;
+}
+
+.div-modifica-produs-utilizator {
+  display: inline-block;
+  display: inline-block;
+  vertical-align: top;
+  padding-top: 43px;
+  margin-left: 10px;
+  text-align: center;
+}
+
+.buton-modifica-produs-utilizator {
+  margin-top: 0px;
+  margin-left: 0px;
+  width: 100%;
+  padding: 8px;
+  background: black;
+  color: white;
+  border-color: rgb(146, 146, 146);
+  font-size: 13px;
+  cursor: pointer;
+  border-radius: 7px;
+  align-content: center;
+  outline: none;
+}
+
+.link-produs-utilizator {
+  color: black;
+}
+
+.linie-orizontalprodus-utilizator {
+  margin-top: 15px;
+  width: 97%;
+}
+
+.container-produsele-utilizatorului > div:last-child hr {
+  display: none;
+}

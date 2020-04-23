@@ -1,0 +1,63 @@
+.container-mare-editare-profil {
+  margin-left: 300px;
+  margin-right: 300px;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.heading-editare-cont {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 30px;
+}
+
+.label-informatie-profil {
+  display: inline-block;
+  width: 140px;
+  text-align: right;
+  margin-left: 10px;
+  margin-right: 20px;
+}
+
+.editare-nume {
+  display: inline-block;
+  width: 600px;
+}
+
+.editare-username {
+  display: inline-block;
+  width: 600px;
+}
+
+.editare-email {
+  display: inline-block;
+  width: 600px;
+}
+
+.editare-adresa {
+  display: inline-block;
+  width: 600px;
+}
+
+.editare-telefon {
+  display: inline-block;
+  width: 600px;
+}
+
+.imagine-utilizator {
+  position: relative;
+  margin: auto;
+  border: 2px solid #bbb;
+  width: 150px;
+  height: 150px;
+  border-radius: 150%;
+  background-size: cover;
+  background-position: center center;
+}
+
+.imagine-text {
+  text-align: center;
+  font-size: 18px;
+  margin-top: 20px;
+  color: #595e71;
+}

@@ -1,0 +1,14 @@
+:root {
+  --mainBlack: #000000;
+  --mainWhite: #ffffff;
+  --mainGray: #595e71;
+  background-color: #111;
+}
+.body {
+  background: #111 !important;
+}
+.titlu-produs {
+  color: var(--mainWhite) !important;
+  text-transform: uppercase;
+  letter-spacing: 0.2rem;
+}

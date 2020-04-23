@@ -1,0 +1,22 @@
+.row {
+  padding: 40px;
+  padding-top: 20px;
+  padding-left: 200px;
+  padding-right: 200px;
+  margin-top: 0px;
+  margin-left: 50px;
+  margin-right: 50px;
+  background-color: white;
+  font-size: 17px;
+  text-align: left;
+  color: black;
+  line-height: 2.5;
+}
+
+.titlu {
+  text-align: center;
+}
+.anunt-important {
+  padding: 13px;
+  background-color: #cdcdcd;
+}

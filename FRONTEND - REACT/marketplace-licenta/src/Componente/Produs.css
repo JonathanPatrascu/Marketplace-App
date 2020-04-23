@@ -1,0 +1,50 @@
+.produs-mic {
+  width: 23%;
+  display: inline-block;
+  padding: 10px;
+}
+
+.imagine {
+  width: 85%;
+  height: 0;
+  padding-bottom: 60%;
+  background-size: cover;
+  background-position: center center;
+}
+.nume-produs {
+  text-align: center;
+  margin-right: 39px;
+  padding: 5px;
+  height: 45px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.link {
+  text-decoration: none;
+  color: white;
+}
+
+.pret {
+  text-align: center;
+  margin-right: 39px;
+  font-weight: bold;
+  font-size: 18px;
+  padding: 2px;
+}
+.conditie {
+  color: dimgrey;
+  text-align: center;
+  margin-right: 39px;
+  line-height: 1.5;
+
+  font-size: 14px;
+}
+.locatie {
+  text-align: center;
+  margin-right: 39px;
+  line-height: 1.5;
+  font-size: 12px;
+}
